@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrScriptDev
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing, currently I'm a solo Dev
 - 📫 How to reach me: mrscriptdev@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am starting develompent on a game soon (I am not going to mention the name of the game).
