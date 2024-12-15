@@ -1,7 +1,9 @@
 
 ![MrScriptDev](https://github.com/MrScriptDev/MrScriptDev/blob/main/MrScriptDev%20Logo%20(Rounded).svg)
-
-##Description
+# MrScriptDev
+<br>
+<br>
+## Description
 - 👋 Hi, I’m @MrScriptDev
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C++
